@@ -1,0 +1,68 @@
+body
+{
+	background: royalblue;
+}
+
+	.login_div1 , .login_div2
+	{
+		background: red;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+		border: 4px solid darkorange;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+	color:#00E5E8;
+	font-size: xx-large;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: blanchedalmond;
+border-radius: 10px;
+border-top: 10px solid brown;
+padding: 10px;
+float: none;
+text-align: left;
+}
+#player_1_name_input ,  #player_2_name_input{
+background-color:aqua ;	
+} 
+h1  {
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 40px;
+font-weight: 800;
+color:crimson;	
+}
+#player_question , #player_answer {
+font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;	
+font-size:xx-large;
+color:gold;
+font-weight: 500;
+font-style: oblique;
+font-variant: normal;
+}
+#player1_score,#player2_score{
+color: #00E5E8;
+font-size:xx-large;	
+}
+label{
+color:#FF9F1C;
+font-size: 23px;	
+}
+img{
+width:340px;
+height:300px;
+}
